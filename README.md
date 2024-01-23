@@ -20,3 +20,5 @@ Data from [LearnSQL](https://learnsql.com/blog/25-advanced-sql-query-examples/#e
 
 ### Contact:
 For any questions or feedback, feel free to contact me at guzor92@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/uzorahanotu).
+
+Download the code and see how my SQL skills can help you gain valuable insights from your data!

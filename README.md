@@ -15,8 +15,8 @@ Data from [LearnSQL](https://learnsql.com/blog/25-advanced-sql-query-examples/#e
 * Line managers per employee
 
 ### Technical Stack:
-* Database: [MSSQL]
-* SQL Client: [SQL Server Management Studio]
+* Database: MSSQL
+* SQL Client: SQL Server Management Studio
 
 ### Contact:
-For any questions or feedback, feel free to contact me at [guzor92@gmail.com] or connect with me on [LinkedIn](www.linkedin.com/in/uzorahanotu).
+For any questions or feedback, feel free to contact me at guzor92@gmail.com or connect with me on [LinkedIn](www.linkedin.com/in/uzorahanotu).
